@@ -23,7 +23,7 @@ public class PROJECT01_JAVA {
     ClaseEjemploNueva obj1 = new ClaseEjemploNueva ();
     obj1.valor=obj1.valor+300;
     obj1.valor2=obj1.valor2+500;
-    obj1.mostrarVariables();
+    obj1.mostrarVariables();// fin de primera sesion
     
     
     }
